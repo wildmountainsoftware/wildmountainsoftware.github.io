@@ -38,6 +38,11 @@ Throughout my career I've had the privilege to work directly on projects of all 
 
 \- Mary Rocheleau (Director of Technology Solutions - Dimagi)
 
+> I worked closely with Farid during much of his tenure at Dimagi and he is one of the best developers I’ve ever worked with. Farid was quick to learn new technologies, comfortable jumping into new codebases, and always had good instincts about striking the right balance between perfectly-engineered code and shipping features. Perhaps even more importantly, Farid knows how to get work done. He’s a phenomenal communicator, easy to manage, and is able to navigate the product/specification side of software development with ease. He works great on teams, and consistently delivers great results. I’d hire Farid again in a heartbeat.
+
+\- [Cory Zue](https://www.coryzue.com/) (Ex-CTO - Dimagi)
+
+
 > Farid is a talented developer who not only knows how to get things done but is wonderful to work with. I was Farid’s manager for 6 years at Dimagi and have seen him take on increasingly large technical challenges as well as a larger leadership role during that time. Farid has taken nebulous requests from our partners, help target in on the actual need, architect and build MVPs, and refine products while working seamlessly with other teams. Farid is an individual whom you would not want to pass over the opportunity to work with.  
 
 \- Lucina Tse (Chief Operations Officer - Dimagi)
