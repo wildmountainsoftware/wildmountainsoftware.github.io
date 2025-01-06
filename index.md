@@ -34,6 +34,10 @@ Throughout my career I've had the privilege to work directly on projects of all 
 
 # Testimonials
 
+> The best part about working with Farid is his spirit of curiosity! As the tech lead on our team for 2 years, he was a great leader for the engineers and an excellent collaborator with Product, Design, and senior leadership. He's an incredibly talented software engineer, and is always thinking deeply at a systems level about how to improve the codebase. You'll be glad you hired him!
+
+\- Patrick Metzger (Director of Product - [idealist.org](https://www.idealist.org))
+
 > Farid is a fantastic software developer. He is conscientious, writes clear specifications, effectively mentors and leads more junior developers, and excels at communicating complex technical concepts to a wide variety of stakeholders. He quickly develops a deep understanding for end users, is eager to jump into new problems, and consistently weighs tradeoffs between technical complexity and end user impact. Farid is positive, constructive and thoughtful in his work, and I would highly recommend working with him. 
 
 \- Mary Rocheleau (Director of Technology Solutions - Dimagi)
