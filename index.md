@@ -11,14 +11,6 @@ He has worked across the stack with a wide range of clients, from early-stage st
 
 Farid has excellent communication skills in both English and French, and specializes in helping clients build maintainable, well-tested, scaleable products. 
 
-# Personal Statement
-
-I'm a full-stack software engineer and tech lead with over a decade of experience. 
-
-I lead and guide remote technical teams to tackle ambiguous, challenging problems through high-quality code, system architecture, technical risk management, and engineering best practices. I build and architect systems with an eye for maintainability, scalability, and always with the customer in mind. 
-
-Throughout my career I've had the privilege to work directly on projects of all sizes from national-scale health systems to small village-based data collection campaigns in some of the most underserved communities in the world, including in India, Ethiopia, Burkina Faso, Senegal, Jamaica, Malawi, Canada, and the US. 
-
 # Past Customers
 
 * [Idealist.org](https://www.idealist.org/) - Led the engineering team in building out Idealist's social networking features, including user profiles and commenting. Managed the release cycle, dropped automated test times from 4 hours to under 30 minutes, and improved the average INP score from "Poor" to "Good" on most pages. 
