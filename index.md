@@ -11,21 +11,13 @@ He has worked across the stack with a wide range of clients, from early-stage st
 
 Farid has excellent communication skills in both English and French, and specializes in helping clients build maintainable, well-tested, scaleable products. 
 
-# Past Customers
+# Past Clients
 
 * [Idealist.org](https://www.idealist.org/) - Led the engineering team in building out Idealist's social networking features, including user profiles and commenting. Managed the release cycle, dropped automated test times from 4 hours to under 30 minutes, and improved the average INP score from "Poor" to "Good" on most pages. 
 * [Dimagi, Inc](https://www.dimagi.com/) - Worked on all aspects of Dimagi's open-source flagship product, CommCare — the world’s most widely-used data collection and service delivery platform, that has been used by over a million frontline workers in 130 countries.
 * [Gaiascope](https://www.gaia-scope.com/) -  Redesigned database architecture and re-implemented all database code for this early-stage startup following SQLAlchemy best practices and added a testing framework - allowing their team to increase developer velocity and have confidence in their system.
 * [Provender](https://www.crunchbase.com/organization/provender) - Provender was a start-up that built an e-commerce platform to connect local farmers with chefs around Montreal.  I led and implemented a full site re-design, and added a fully-featured multi-faceted product search system.
 * Cirque du Soleil / Benoit Jutras - Designed and built the Wordpress website for Benoit Jutras, the lead composer of the Cirque du Soleil.
-
-# Projects & Accomplishments
-
-* **Open Chat Studio - Dimagi**: Designed and built an LLM pipeline composer that enabled users to visually create and automate chatbot workflows with conditional logic and data processing.
-* **Community Features - Idealist.org**: Led the engineering team in building out Idealist's social networking features, including user profiles and commenting. 
-* **COVID-19 Vaccination QR Codes - Dimagi / Jamaican Ministry of Health**: Lead Dimagi's part of a project with the Jamaican Ministry of Health, UNICEF, and external vendors to build a system that produces all of Jamaica’s COVID-19 vaccination QR codes used by over 500K Jamaicans. Delivered the project on time despite expanded scope and limited budget.
-* **Patient search and data exploration tool - Dimagi**: Designed and built what is now the primary data search and exploration tool for over 250 projects with over 10M data points, enabling  users to craft complex queries, previously not possible in the product. This feature is heavily used by COVID-19 contact tracers in the US (NY, CO, AK), and globally (Jamaica, Somalia) to find and track potential COVID-19 cases.
-* Won the 2018 "Elastic Cause Award" for work I did on tracking tuberculosis in India, and presented at Elastic{ON} 2018.
 
 # Testimonials
 
@@ -54,14 +46,10 @@ Farid has excellent communication skills in both English and French, and special
 
 \- Jason Stanley (Head of Insights - Local Logic)
 
-# Education
+# Projects & Accomplishments
 
-**B. Eng. (Hons.): Honours Electrical Engineering. (2011)**
-CGPA: 3.61
-Minor: Musical Science & Technology
-Thesis: Engineering for Social & Environmental Justice
-McGill University, Montreal, QC
-
-**M. Arch: Masters of Architecture, History & Theory. (2013)**
-CGPA: 3.93
-McGill University, Montreal, QC
+* **Open Chat Studio - Dimagi**: Designed and built an LLM pipeline composer that enabled users to visually create and automate chatbot workflows with conditional logic and data processing.
+* **Community Features - Idealist.org**: Led the engineering team in building out Idealist's social networking features, including user profiles and commenting. 
+* **COVID-19 Vaccination QR Codes - Dimagi / Jamaican Ministry of Health**: Lead Dimagi's part of a project with the Jamaican Ministry of Health, UNICEF, and external vendors to build a system that produces all of Jamaica’s COVID-19 vaccination QR codes used by over 500K Jamaicans. Delivered the project on time despite expanded scope and limited budget.
+* **Patient search and data exploration tool - Dimagi**: Designed and built what is now the primary data search and exploration tool for over 250 projects with over 10M data points, enabling  users to craft complex queries, previously not possible in the product. This feature is heavily used by COVID-19 contact tracers in the US (NY, CO, AK), and globally (Jamaica, Somalia) to find and track potential COVID-19 cases.
+* Won the 2018 "Elastic Cause Award" for work I did on tracking tuberculosis in India, and presented at Elastic{ON} 2018.
