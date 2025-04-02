@@ -21,6 +21,8 @@ Farid has excellent communication skills in both English and French, and special
 
 # Projects & Accomplishments
 
+* **Open Chat Studio - Dimagi**: Designed and built an LLM pipeline composer that enabled users to visually create and automate chatbot workflows with conditional logic and data processing.
+* **Community Features - Idealist.org**: Led the engineering team in building out Idealist's social networking features, including user profiles and commenting. 
 * **COVID-19 Vaccination QR Codes - Dimagi / Jamaican Ministry of Health**: Lead Dimagi's part of a project with the Jamaican Ministry of Health, UNICEF, and external vendors to build a system that produces all of Jamaica’s COVID-19 vaccination QR codes used by over 500K Jamaicans. Delivered the project on time despite expanded scope and limited budget.
 * **Patient search and data exploration tool - Dimagi**: Designed and built what is now the primary data search and exploration tool for over 250 projects with over 10M data points, enabling  users to craft complex queries, previously not possible in the product. This feature is heavily used by COVID-19 contact tracers in the US (NY, CO, AK), and globally (Jamaica, Somalia) to find and track potential COVID-19 cases.
 * Won the 2018 "Elastic Cause Award" for work I did on tracking tuberculosis in India, and presented at Elastic{ON} 2018.
